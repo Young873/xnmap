@@ -1,5 +1,4 @@
-
-
+# xnmap:比nmap更专注于服务识别的工具
 
 ### 前言
 说到端口开放服务的识别，我们首先想到的就是nmap，而nmap作为时下最主流的端口服务识别工具(没有之一),在服务识别时还是有两个明显硬伤：
@@ -67,8 +66,6 @@ xnmap利用nmap规则库编写的专门用于服务识别的工具。
 ![image](images/tjp4lIA_Yh9eFmqNgtch8xlCabGaGrGPUo1oG6qe5Ms.png)
 
 ![image](images/7dWuF40JRbftBOc2IfoZBgJsYKz2-u0GDwH-dlO0f3g.png)
-
-
 
 ![image](images/1T7eU-mwEXKK8Y2J9sN4MJ-b77RGm-liNSqDu3Dpxyc.png)
 
